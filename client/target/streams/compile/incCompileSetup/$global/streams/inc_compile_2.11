@@ -1,0 +1,143 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/ClientActor$$anonfun$receive$1.class
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/ClientActor.class
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/RemoteClientApp$.class
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/RemoteClientApp$delayedInit$body.class
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/RemoteClientApp.class
+binary dependencies:
+4 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> /Users/shun-fz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sample.shun.client.ClientActor
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sample.shun.client.ClientActor$$anonfun$receive$1
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sample.shun.client.RemoteClientApp
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sample.shun.client.RemoteClientApp$
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sample.shun.client.RemoteClientApp$delayedInit$body
+used names:
+48 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> !
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> <init>
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> A1
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> Actor
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> ActorLogging
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> ActorSelection
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> ActorSystem
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> App
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> B1
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> ClassTag
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> ClientActor
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> ConfigFactory
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> File
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> Function1
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> Props
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> Receive
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> RemoteClientApp
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> Unit
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> actor
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> actorOf
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> actorSelection
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> akka
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> apply
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> asInstanceOf
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> client
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> com
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> config
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> context
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> getString
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> info
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> io
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> isInstanceOf
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> java
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> load
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> localActor
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> log
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> materializeClassTag
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> package
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> remoteActor
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sample
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> scala
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> self
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> sender
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> shun
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> system
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> toScala
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> typesafe
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> unchecked
+product stamps:
+5 items
+/Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/ClientActor$$anonfun$receive$1.class -> lastModified(1440754373000)
+/Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/ClientActor.class -> lastModified(1440754373000)
+/Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/RemoteClientApp$.class -> lastModified(1440754373000)
+/Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/RemoteClientApp$delayedInit$body.class -> lastModified(1440754373000)
+/Users/shun-fz/scala/remote-akka/client/target/scala-2.11/classes/sample/shun/client/RemoteClientApp.class -> lastModified(1440754373000)
+source stamps:
+1 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> hash(8106068fc6d7e2068ba8d85ed67927206d91d8e7)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/shun-fz/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar -> lastModified(1435330597000)
+/Users/shun-fz/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/Users/shun-fz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/shun-fz/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-M2.jar -> akka.actor.ActorLogging
+/Users/shun-fz/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.Config
+/Users/shun-fz/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCEzwIvAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUM64g3QABHNlbGZzcQB+AAsOp3BhdAAHY29udGV4dHVxAH4ACQAAACxzcQB+AAtbjgG+dAAGbm90aWZ5c3EAfgALx1tF93QAB1JlY2VpdmVzcQB+AAuRq4jPdAALQ2xpZW50QWN0b3JzcQB+AAv6ucQ8dAAEd2FpdHNxAH4ACwn97wp0AA0kYXNJbnN0YW5jZU9mc3EAfgALF5IKYXQABnN5c3RlbXNxAH4AC2s+mP50AAZlcXVhbHNzcQB+AAtwCdR1dAAMYXNJbnN0YW5jZU9mc3EAfgALS4zexHQADmV4ZWN1dGlvblN0YXJ0c3EAfgALNrGjoHQADHN5bmNocm9uaXplZHNxAH4AC+jKcD90AA0kaXNJbnN0YW5jZU9mc3EAfgALAvFFXHQAD1JlbW90ZUNsaWVudEFwcHNxAH4AC0R/wdF0AAdyZWNlaXZlc3EAfgALM2Oc0HQACnByZVJlc3RhcnRzcQB+AAvHvofSdAANYXJvdW5kUmVjZWl2ZXNxAH4ACyEyLiF0AAZjb25maWdzcQB+AAssrl1KdAALcG9zdFJlc3RhcnRzcQB+AAuXz6R6dAAEbWFpbnNxAH4ACw/ybc10AAhwb3N0U3RvcHNxAH4AC7XeiQd0AAlub3RpZnlBbGxzcQB+AAvPZDq6dAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvelapbdAAMaXNJbnN0YW5jZU9mc3EAfgALn40pD3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsCL8qRdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsipXmrdAAGPGluaXQ+c3EAfgALfZ1AMHQACHByZVN0YXJ0c3EAfgALUoHW23QACXVuaGFuZGxlZHNxAH4ACzOo5350AAI9PXNxAH4AC8q92ZJ0AAVjbG9uZXNxAH4ACz+KUJF0AAZzZW5kZXJzcQB+AAupVnuPdAAIdG9TdHJpbmdzcQB+AAtMmlF+dAAEYXJnc3NxAH4AC0Z+jzp0AAIhPXNxAH4AC7UKRLx0AAhnZXRDbGFzc3NxAH4AC07T+Id0AAJuZXNxAH4AC60oClZ0AApsb2NhbEFjdG9yc3EAfgALNV5KrnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACxYvWgJ0AAJlcXNxAH4AC0RJSBN0AANsb2dzcQB+AAtRdfCSdAALZGVsYXllZEluaXRzcQB+AAtxtfVodAACIyNzcQB+AAsvfNMCdAAIZmluYWxpemVzcQB+AAupu6P+dAAIaGFzaENvZGVzcQB+AAu8AN8DdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAic2FtcGxlLnNodW4uY2xpZW50LlJlbW90ZUNsaWVudEFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AjQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ac0wACWluaGVyaXRlZHEAfgBzTAAHcGFyZW50c3EAfgBzeHEAfgCUc3EAfgCNAXVxAH4AbgAAAABwc3EAfgCNAXVxAH4AbgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AdHEAfgB9dXEAfgB+AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AnnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCTdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnR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
+external apis:
+0 items
+source infos:
+1 items
+/Users/shun-fz/scala/remote-akka/client/src/main/scala/RemoteClientApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3MbHXt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy9zaHVuLWZ6L3NjYWxhL3JlbW90ZS1ha2thLWNsaWVudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3Ol3/R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy9zaHVuLWZ6L3NjYWxhL3JlbW90ZS1ha2thL2NsaWVudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT3OnADJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQS9Vc2Vycy9zaHVuLWZ6L3NjYWxhL3JlbW90ZS1ha2thL2NsaWVudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
